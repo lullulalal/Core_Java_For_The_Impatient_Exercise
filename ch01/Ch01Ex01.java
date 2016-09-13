@@ -14,6 +14,6 @@ public class Ch01Ex01
 		System.out.println("binary : " + inBinary);
 
 		double reciprocal = Math.pow(in, -1);		
-		//System.out.printf("inverse hexa : %f\n", reciprocal);
+		System.out.printf("inverse hexa : " + Double.toHexString(reciprocal));
 	}
 }
