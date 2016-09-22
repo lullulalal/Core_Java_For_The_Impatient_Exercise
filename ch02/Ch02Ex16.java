@@ -3,7 +3,6 @@ import java.util.ArrayList;
 class QueueStr
 {
 	private static class Node {
-	//public static class Node {
 		private String str;
 		public Node(String inStr)
 		{

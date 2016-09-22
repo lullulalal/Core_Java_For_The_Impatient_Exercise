@@ -19,7 +19,7 @@ class QueueStr
 	{
 		private int index ;
 		
-		public Node next()
+		public Object next()
 		{
 			Node n = strList.get(index);
 			index++;
@@ -52,14 +52,6 @@ class QueueStr
 	{
 		strList.remove( 0 ) ;
 	}
-
-	public void printAll()
-	{
-		for (Node n : strList)
-		{
-			System.out.print(n);
-		}
-	}
 }
 
 public class Ch02Ex17
@@ -67,19 +59,16 @@ public class Ch02Ex17
 	public static void main(String[] args) 
 	{
 		QueueStr testQ = new QueueStr();
+
 		testQ.add("a");
 		testQ.add("bcd");
 		testQ.add("efgh");
 
-		testQ.printAll();
-		System.out.println();
-		
 		testQ.remove();
-		testQ.printAll();
-		System.out.println();
-
+		testQ.remove();
 		QueueStr.Iterator iter = testQ.iterator(); 
 		while( iter.hasNext() )
 			System.out.print(iter.next());
+		System.out.println();
 	}
 }
