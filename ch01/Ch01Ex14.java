@@ -50,7 +50,6 @@ public class Ch01Ex14
 			}
 			
 		}	
-
 		for ( int n : vertical ) {
 			if ( sum != n ) {
 				System.out.println("It is not Magic square");
