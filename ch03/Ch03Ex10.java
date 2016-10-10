@@ -1,4 +1,3 @@
-
 import java.io.File;
 import java.io.FileFilter;
 import java.util.ArrayList;
@@ -26,8 +25,9 @@ public class Ch03Ex10 {
 		});*/
 		
 		//using lamda
-		File[] files = file.listFiles( (File f) -> f.isDirectory() );
-		
+		//File[] files = file.listFiles( (File f) -> f.isDirectory() );
+		//using lamda, method expression 
+		File[] files = file.listFiles( File::isDirectory );
 		for( File f : files )
 		{
 			result.add(f.getName());
