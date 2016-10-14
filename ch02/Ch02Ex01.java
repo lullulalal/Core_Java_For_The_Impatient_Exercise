@@ -40,5 +40,6 @@ class Ch02Ex01
 			date = date.plusDays(1);
 		}
 		System.out.println();
+		input.close();
 	}
 }

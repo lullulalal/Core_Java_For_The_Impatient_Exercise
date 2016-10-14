@@ -5,7 +5,7 @@ class Car
 	static final int MAX_GASTANK_VOLUME = 100;
 
 	private double gasTank;
-	private double distanceDriven;
+	//private double distanceDriven;
 	private double currentLocation;
 	private double efficiency;
 
@@ -26,7 +26,7 @@ class Car
 			double preGasTank =  gasTank;
 			gasTank -= gasTank;
 
-			distanceDriven += efficiency * (double)preGasTank;
+			//distanceDriven += efficiency * (double)preGasTank;
 			if ( isPositiveDirection == true ) {
 				currentLocation += efficiency * (double)preGasTank;
 				System.out.printf( "moves = %.3f,  GasTank = %.3f%n", efficiency*(double)preGasTank, gasTank);
@@ -37,7 +37,7 @@ class Car
 			}
 		}
 		else {
-			distanceDriven += miles;
+			//distanceDriven += miles;
 			if ( isPositiveDirection == true ) {
 				currentLocation += miles;
 				System.out.printf( "moves = %.3f,  GasTank = %.3f%n", miles, gasTank);
