@@ -1,6 +1,8 @@
+package Ch02;
+
 import java.util.ArrayList;
 
-class QueueStr
+class QueueStr17
 {
 	private static class Node 
 	{
@@ -58,7 +60,7 @@ public class Ch02Ex17
 {
 	public static void main(String[] args) 
 	{
-		QueueStr testQ = new QueueStr();
+		QueueStr17 testQ = new QueueStr17();
 
 		testQ.add("a");
 		testQ.add("bcd");
@@ -66,7 +68,7 @@ public class Ch02Ex17
 
 		testQ.remove();
 		testQ.remove();
-		QueueStr.Iterator iter = testQ.iterator(); 
+		QueueStr17.Iterator iter = testQ.iterator(); 
 		while( iter.hasNext() )
 			System.out.print(iter.next());
 		System.out.println();

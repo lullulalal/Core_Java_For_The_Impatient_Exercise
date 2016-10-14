@@ -1,3 +1,5 @@
+package Ch01;
+
 import java.util.Scanner;
 import java.math.BigInteger;
 
@@ -13,5 +15,6 @@ public class Ch01Ex06
 			result = result.multiply( BigInteger.valueOf(i) );
 
 		System.out.println(result.toString());
+		input.close();
 	}
 }

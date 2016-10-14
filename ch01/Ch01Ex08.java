@@ -1,3 +1,5 @@
+package Ch01;
+
 import java.util.Scanner;
 import java.io.FileReader; 
 import java.io.IOException; 
@@ -18,6 +20,6 @@ public class Ch01Ex08
 				System.out.println(st.nextToken());
 		} 
 		fileScanner.close(); 
- 
+		
 	}
 }

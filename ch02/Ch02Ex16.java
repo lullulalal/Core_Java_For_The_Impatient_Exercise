@@ -1,6 +1,8 @@
+package Ch02;
+
 import java.util.ArrayList;
 
-class QueueStr
+class QueueStr16
 {
 	private static class Node {
 		private String str;
@@ -41,7 +43,7 @@ public class Ch02Ex16
 {
 	public static void main(String[] args) 
 	{
-		QueueStr testQ = new QueueStr();
+		QueueStr16 testQ = new QueueStr16();
 		testQ.add("a");
 		testQ.add("bcd");
 		testQ.add("efgh");

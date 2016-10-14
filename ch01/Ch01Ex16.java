@@ -1,3 +1,5 @@
+package Ch01;
+
 public class Ch01Ex16 
 {
 	public static double average( double first, double... values )

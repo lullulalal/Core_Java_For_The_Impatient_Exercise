@@ -1,3 +1,5 @@
+package Ch02;
+
 class Car
 {
 	static final int MAX_GASTANK_VOLUME = 100;

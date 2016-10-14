@@ -1,3 +1,5 @@
+package Ch01;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 public class Ch01Ex03
@@ -26,5 +28,6 @@ public class Ch01Ex03
 		
 		System.out.print("Result : ");
 		System.out.println(result);
+		input.close();
 	}
 }

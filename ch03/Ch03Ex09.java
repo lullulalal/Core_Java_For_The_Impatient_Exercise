@@ -1,3 +1,5 @@
+package Ch03;
+
 public class Ch03Ex09 {
 
 	public static void runTogether(Runnable... tasks) {

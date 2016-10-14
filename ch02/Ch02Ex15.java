@@ -1,3 +1,5 @@
+package Ch02;
+
 import java.util.ArrayList;
 
 class Invoice {

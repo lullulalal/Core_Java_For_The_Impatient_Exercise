@@ -1,3 +1,5 @@
+package Ch01;
+
 import java.util.Scanner;
 
 public class Ch01Ex02
@@ -14,5 +16,6 @@ public class Ch01Ex02
 
 		System.out.println(normal);
 		System.out.println(normal2);
+		input.close();
 	}
 }

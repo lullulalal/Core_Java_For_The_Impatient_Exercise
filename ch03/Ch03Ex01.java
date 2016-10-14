@@ -1,3 +1,5 @@
+package Ch03;
+
 public class Ch03Ex01 {
 	
 	public static double average(Measurable[] objects)

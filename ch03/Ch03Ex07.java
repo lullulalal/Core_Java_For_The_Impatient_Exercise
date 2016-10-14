@@ -1,3 +1,5 @@
+package Ch03;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -43,7 +45,7 @@ public class Ch03Ex07 {
 		
 		//using LengthComparator
 		luckySort(test, new LengthComparator());
-		System.out.println("**using LengthComparator**");
+		System.out.println("**using Length Comparator**");
 		for(int i = 0; i < test.size(); i++)
 			System.out.print(test.get(i) + ", ");
 		
@@ -52,7 +54,7 @@ public class Ch03Ex07 {
 		
 		//using AlphabetComparator
 		luckySort(test, new AlphabetComparator());
-		System.out.println("**using AlphabetComparator**");
+		System.out.println("**using Alphabet Comparator**");
 		for(int i = 0; i < test.size(); i++)
 			System.out.print(test.get(i) + ", ");
 	}

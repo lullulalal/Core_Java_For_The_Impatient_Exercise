@@ -1,3 +1,5 @@
+package Ch01;
+
 import java.lang.Math;
 
 class Ch01Ex04 
@@ -14,5 +16,6 @@ class Ch01Ex04
 		//}
 		System.out.println("Double Max = " + max);
 		System.out.println("Double Min = " + min);
+		
 	}
 }

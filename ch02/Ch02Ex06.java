@@ -1,17 +1,19 @@
+package Ch02;
+
 import java.text.DecimalFormat;
 
-class Point
+class Point06
 {
 	private double x;
 	private double y;
 
-	public Point( double inX, double inY )
+	public Point06( double inX, double inY )
 	{
 		x = inX;
 		y = inY;
 	}
 
-	public Point()
+	public Point06()
 	{
 		this(0.0, 0.0);
 	}
@@ -26,14 +28,14 @@ class Point
 		return y;
 	}
 
-	public Point translate( double moveX, double moveY)
+	public Point06 translate( double moveX, double moveY)
 	{
 		x += (double)moveX;
 		y += (double)moveY;
 		return this;
 	}
 
-	public Point scale( double ratio )
+	public Point06 scale( double ratio )
 	{
 		x *= (double)ratio;
 		y *= (double)ratio;
@@ -52,7 +54,7 @@ public class Ch02Ex06
 
 	public static void main(String[] args) 
 	{
-		Point tP = new Point(3, 4).translate(1, 3).scale(0.5);
+		Point06 tP = new Point06(3, 4).translate(1, 3).scale(0.5);
 		System.out.printf("result : (%s, %s)%n", formatD(tP.getX()), formatD(tP.getY()));
 	}
 }

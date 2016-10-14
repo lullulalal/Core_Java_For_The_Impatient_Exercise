@@ -1,3 +1,5 @@
+package Ch02;
+
 import org.omg.CORBA.IntHolder;
 class Ch02Ex04
 {

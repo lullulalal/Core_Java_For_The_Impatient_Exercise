@@ -1,3 +1,5 @@
+package Ch01;
+
 import java.util.Scanner;
 
 public class Ch01Ex10

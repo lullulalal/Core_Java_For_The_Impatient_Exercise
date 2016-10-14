@@ -1,3 +1,5 @@
+package Ch01;
+
 import java.util.Scanner;
 
 public class Ch01Ex01  
@@ -15,5 +17,7 @@ public class Ch01Ex01
 
 		double reciprocal = Math.pow(in, -1);		
 		System.out.printf("inverse hexa : " + Double.toHexString(reciprocal));
+		
+		input.close();
 	}
 }
