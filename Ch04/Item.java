@@ -12,8 +12,8 @@ public class Item {
     }
 
     public boolean equals(Object otherObject) {
-   //     if (this == otherObject) return true;
-   //     if (otherObject == null) return false;
+        if (this == otherObject) return true;
+        if (otherObject == null) return false;
         if ( !(otherObject instanceof Item) ) return false;
         Item other = (Item) otherObject;
         return Objects.equals(description, other.description)
