@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a293630a-669f-4cf7-bda4-a8c0865d12d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch01/Ch01Ex16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch02/Ch02Ex17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Ch03Ex15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/IntSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/IntSequenceClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch03/Measurable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Ch04Ex02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Ch04Ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Ch04Ex05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Ch04Ex06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Ch04Ex07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Ch04Ex08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Ch04Ex09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/DiscountedItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/LabeledPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/PrimaryColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaExercise/src/ch04Extra/Ch04Ex03.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UcJvIejzNy1bHwN8iG3Sp1SkDU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/lullu/rep/dev/StudyJAVA/coreJavaForTheImpatient"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a293630a-669f-4cf7-bda4-a8c0865d12d5" name="Changes" comment="" />
+      <created>1693233166365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693233166365</updated>
+    </task>
+    <servers />
+  </component>
+</project>

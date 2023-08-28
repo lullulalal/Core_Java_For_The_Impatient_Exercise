@@ -1,5 +1,7 @@
 package ch02;
+/**
 import org.omg.CORBA.IntHolder;
+
 class Ch02Ex04
 {
 	public static void swap(IntHolder a, IntHolder b)
@@ -22,5 +24,6 @@ class Ch02Ex04
 
 		System.out.println("myHolder1 = " + myHolder1.value);
 		System.out.println("myHolder2 = " + myHolder2.value);
-	}
+	}S
 }
+**/
